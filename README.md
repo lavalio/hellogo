@@ -1,2 +1,2 @@
 # hellogo
-hello world fo go
+hello world for go
